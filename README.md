@@ -3,8 +3,8 @@ Projekti semestral per Sistemet Operative grupi 22
 
 Antaret e grupit:
 
-Haki Pintolli
-Fikri Stublla
-Gzon Alaj
-Emri Bislimi
+Haki Pintolli,
+Fikri Stublla,
+Gzon Alaj,
+Emri Bislimi,
 Edison Hajdari
